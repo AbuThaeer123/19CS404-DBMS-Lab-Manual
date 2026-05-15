@@ -22,7 +22,7 @@ Requirements:
 - Payments tracked for memberships and sessions.
 
 ### ER Diagram:
-![Uploading image.png…]()
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/1d95c321-8bbe-4ac8-b39f-34f8d37f5d11" />
 
 
 
@@ -67,7 +67,7 @@ Requirements:
 - Overdue fines apply for late returns.
 
 ### ER Diagram:
-![Uploading image.png…]()
+<img width="1280" height="652" alt="image" src="https://github.com/user-attachments/assets/2487f48c-b931-4ed4-b380-1a946c52eb67" />
 
 
 ### Entities and Attributes
@@ -109,8 +109,7 @@ A popular restaurant wants to manage *reservations, orders, and billing*.
 - *Waiters* assigned to serve reservations.  
 
 ###  ER Diagram
-![Uploading image.png…]()
-
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/56edab30-4f60-4d84-bc62-f92d1878809b" />
 
 ###  Entities and Attributes
 | Entity    | Attributes (PK, FK) | Notes |
