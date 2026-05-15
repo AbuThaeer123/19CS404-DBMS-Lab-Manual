@@ -22,9 +22,7 @@ Requirements:
 - Payments tracked for memberships and sessions.
 
 ### ER Diagram:
-<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/1d95c321-8bbe-4ac8-b39f-34f8d37f5d11" />
-
-
+<img width="666" height="622" alt="image" src="https://github.com/user-attachments/assets/4320cbef-e655-4808-8b21-a129028b4c8d" />
 
 ### Entities and Attributes
 
