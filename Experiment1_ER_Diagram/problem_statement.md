@@ -10,10 +10,10 @@ Gain hands-on experience in designing ER diagrams that represent database struct
 
 # Scenario A: City Fitness Club Management
 
-Business Context:  
+**Business Context:**  
 FlexiFit Gym wants a database to manage its members, trainers, and fitness programs.
 
-Requirements:  
+**Requirements:**  
 - Members register with name, membership type, and start date.  
 - Each member can join multiple programs (Yoga, Zumba, Weight Training).  
 - Trainers assigned to programs; a program may have multiple trainers.  
@@ -22,7 +22,8 @@ Requirements:
 - Payments tracked for memberships and sessions.
 
 ### ER Diagram:
-<img width="666" height="622" alt="image" src="https://github.com/user-attachments/assets/4320cbef-e655-4808-8b21-a129028b4c8d" />
+![WhatsApp Image 2025-08-28 at 21 41 52_0d3b2057](https://github.com/user-attachments/assets/067a8872-0a16-4d0f-80c3-cde5fbe2cb97)
+
 
 ### Entities and Attributes
 
@@ -53,10 +54,10 @@ Requirements:
 
 # Scenario B: City Library Event & Book Lending System
 
-Business Context:  
+**Business Context:**  
 The Central Library wants to manage book lending and cultural events.
 
-Requirements:  
+**Requirements:**  
 - Members borrow books, with loan and return dates tracked.  
 - Each book has title, author, and category.  
 - Library organizes events; members can register.  
@@ -65,7 +66,7 @@ Requirements:
 - Overdue fines apply for late returns.
 
 ### ER Diagram:
-<img width="1280" height="652" alt="image" src="https://github.com/user-attachments/assets/2487f48c-b931-4ed4-b380-1a946c52eb67" />
+![WhatsApp Image 2025-08-28 at 21 50 47_6450048c](https://github.com/user-attachments/assets/034cadae-7259-4771-b862-b124130efb47)
 
 
 ### Entities and Attributes
@@ -107,7 +108,7 @@ A popular restaurant wants to manage *reservations, orders, and billing*.
 - *Waiters* assigned to serve reservations.  
 
 ###  ER Diagram
-<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/56edab30-4f60-4d84-bc62-f92d1878809b" />
+![WhatsApp Image 2025-08-29 at 14 35 17_70104f15](https://github.com/user-attachments/assets/a20b22a6-154f-4287-be24-9239a5bfd22e)
 
 ###  Entities and Attributes
 | Entity    | Attributes (PK, FK) | Notes |
